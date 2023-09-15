@@ -137,7 +137,8 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-manifest-plugin": "^2.2.0",
     "webpack-sources": "^1.4.3",
-    "yargs": "^15.4.1"
+    "yargs": "^15.4.1",
+    "yarn": "^1.22.19"
   },
   "engines": {
     "node": "14.x || 16.x",
